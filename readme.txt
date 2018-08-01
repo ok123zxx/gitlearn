@@ -5,4 +5,4 @@ push test
 
 add dev branch
 
-add feature branch
+add feature branch [master]
